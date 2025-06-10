@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <!-- <remote name="github" fetch="https://github.com/" /> -->
+
+    <!-- Device -->
+    <project path="device/xiaomi/sm8250-common" name="Miku-UI-alioth/Miku_device_xiaomi_sm8250-common" remote="github" revision="Vampire_v3" />
+
+    <!-- Vendor -->
+    <project path="vendor/xiaomi/sm8250-common" name="Miku-UI-alioth/Miku_vendor_xiaomi_sm8250-common" remote="github" revision="Vampire_v3" clone-depth="1" />
+
+    <!-- Kernel -->
+    <project path="kernel/xiaomi/sm8250" name="Miku-UI-alioth/Miku_kernel_xiaomi_sm8250" remote="github" revision="Vampire_v3" />
+
+</manifest>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <!-- <remote name="github" fetch="https://github.com/" /> -->
+
+    <!-- Device -->
+    <project path="device/xiaomi/alioth" name="Miku-UI-alioth/Miku_device_xiaomi_alioth" remote="github" revision="Vampire_v3" />
+
+    <!-- Vendor -->
+    <project path="vendor/xiaomi/alioth" name="Miku-UI-alioth/Miku_vendor_xiaomi_alioth" remote="github" revision="Vampire_v3" clone-depth="1" />
+
+</manifest>
