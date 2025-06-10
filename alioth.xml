@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <!-- <remote name="github" fetch="https://github.com/" /> -->
+
+    <!-- Device -->
+    <project path="device/xiaomi/alioth" name="Live-House/android_device_xiaomi_alioth" remote="github" revision="yaap-sixteen" />
+
+    <!-- Vendor -->
+    <project path="vendor/xiaomi/alioth" name="Live-House/proprietary_vendor_xiaomi_alioth" remote="github" revision="yaap-sixteen" clone-depth="1" />
+
+</manifest>

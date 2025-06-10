@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <!-- <remote name="github" fetch="https://github.com/" /> -->
+
+    <!-- Hardware -->
+    <project path="hardware/xiaomi" name="Live-House/android_hardware_xiaomi" remote="github" revision="yaap-sixteen" />
+
+    <!-- Packages -->
+    <project path="packages/resources/devicesettings" name="Live-House/android_packages_resources_devicesettings" remote="github" revision="fifteen" />
+
+</manifest>
