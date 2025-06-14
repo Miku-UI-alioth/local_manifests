@@ -11,6 +11,4 @@
     <remove-project name="platform_hardware_miku_compat" />
     <project path="hardware/miku/compat" name="Miku-UI-alioth/platform_hardware_miku_compat" remote="github" revision="Vampire_v3" />
 
-    <project path="hardware/qcom-caf/sm8250/display" name="Miku-UI-alioth/platform_hardware_qcom-caf_sm8250_display" remote="github" revision="Vampire_v3" />
-
 </manifest>

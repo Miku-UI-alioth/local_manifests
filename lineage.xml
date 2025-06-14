@@ -5,6 +5,7 @@
 
     <!-- Hardware -->
     <project path="hardware/qcom-caf/sm8250/audio" name="LineageOS/android_hardware_qcom_audio" groups="qcom,kona" remote="github" revision="lineage-22.2-caf-sm8250" />
+    <project path="hardware/qcom-caf/sm8250/display" name="LineageOS/android_hardware_qcom_display" groups="qcom" remote="github" revision="lineage-22.2-caf-sm8250" />
     <project path="hardware/qcom-caf/sm8250/media" name="LineageOS/android_hardware_qcom_media" groups="qcom,kona" remote="github" revision="lineage-22.2-caf-sm8250" />
     <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" remote="github" revision="lineage-22.2" />
 
